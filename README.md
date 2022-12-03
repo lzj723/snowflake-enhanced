@@ -8,7 +8,7 @@
 ![Version](https://img.shields.io/npm/v/nodejs-snowflake)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/utkarsh-pro/nodejs-snowflake/Releases)
 
-snowflake-enhanced is a fastest and reliable library to generate time sortable 64 bit(actually supports 10~213 bits) ids written for distributed systems.
+snowflake-enhanced is a fastest and reliable library to generate time sortable 64 bit(actually supports 10~213 bit) ids written for distributed systems.
 it's written in TypeScript and being tested sufficiently.
 
 ## Features
@@ -17,8 +17,6 @@ it's written in TypeScript and being tested sufficiently.
 3. time precision setting(supports millisecond & second) √
 4. clock moving backward handle √
 5. counter overflow handle √
-6. adjust field position ×
-7. error event listen ×
 
 ## Getting Started
 
