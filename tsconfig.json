@@ -8,7 +8,7 @@
     "rootDirs": [],
     "rootDir": "./",
     "baseUrl": "./",
-    "outDir": "./dist",
+    "outDir": "./",
     "paths": {
       "*": ["types/*"]
     },
@@ -27,7 +27,7 @@
     "alwaysStrict": true,
     "composite": true,
     "declaration": true,
-    "declarationDir": "./typings",
+    "declarationDir": "./",
     "declarationMap": false,
     "diagnostics": false,
     "disableSizeLimit": false,
