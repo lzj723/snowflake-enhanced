@@ -2,8 +2,8 @@
   "name": "snowflake-enhanced",
   "version": "0.1.0",
   "license": "MIT",
-  "description": "雪花算法增强版",
-  "author": "j2ime",
+  "description": "snowflake-enhanced is a fastest and reliable library to generate time sortable 64 bit(actually supports 10~213 bit) ids written for distributed systems.",
+  "author": "lzj723",
   "scripts": {
     "tsc": "tsc -p tsconfig.json && rimraf tsconfig.tsbuildinfo",
     "clean": "rimraf src/**/*.{js,js.map,d.ts} test/**/*.{js,js.map,d.ts}",
